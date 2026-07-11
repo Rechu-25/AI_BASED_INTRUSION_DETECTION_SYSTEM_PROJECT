@@ -1,5 +1,13 @@
 # AI-Based Intrusion Detection System
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-red)
+
+![GitHub](https://img.shields.io/badge/GitHub-Project-black)
 ## 📌 Project Overview
 
 This project uses Machine Learning to detect network intrusions using the NSL-KDD dataset. A Random Forest classifier is trained to classify network traffic as either normal or malicious.
